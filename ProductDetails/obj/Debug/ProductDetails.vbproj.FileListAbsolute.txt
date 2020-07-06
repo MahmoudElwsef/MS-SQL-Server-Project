@@ -1,0 +1,24 @@
+C:\Users\Mahmo\source\repos\ProductDetails\ProductDetails\bin\Debug\ProductDetails.exe.config
+C:\Users\Mahmo\source\repos\ProductDetails\ProductDetails\bin\Debug\ProductDetails.exe
+C:\Users\Mahmo\source\repos\ProductDetails\ProductDetails\bin\Debug\ProductDetails.pdb
+C:\Users\Mahmo\source\repos\ProductDetails\ProductDetails\bin\Debug\ProductDetails.xml
+C:\Users\Mahmo\source\repos\ProductDetails\ProductDetails\obj\Debug\ProductDetails.vbprojAssemblyReference.cache
+C:\Users\Mahmo\source\repos\ProductDetails\ProductDetails\obj\Debug\ProductDetails.Form1.resources
+C:\Users\Mahmo\source\repos\ProductDetails\ProductDetails\obj\Debug\ProductDetails.Resources.resources
+C:\Users\Mahmo\source\repos\ProductDetails\ProductDetails\obj\Debug\ProductDetails.vbproj.GenerateResource.cache
+C:\Users\Mahmo\source\repos\ProductDetails\ProductDetails\obj\Debug\ProductDetails.vbproj.CoreCompileInputs.cache
+C:\Users\Mahmo\source\repos\ProductDetails\ProductDetails\obj\Debug\ProductDetails.exe
+C:\Users\Mahmo\source\repos\ProductDetails\ProductDetails\obj\Debug\ProductDetails.xml
+C:\Users\Mahmo\source\repos\ProductDetails\ProductDetails\obj\Debug\ProductDetails.pdb
+E:\MET\2CS\Term 2\File Organization\File Organization Programs\Example 5-1 ProductDetails\ProductDetails\bin\Debug\ProductDetails.exe.config
+E:\MET\2CS\Term 2\File Organization\File Organization Programs\Example 5-1 ProductDetails\ProductDetails\bin\Debug\ProductDetails.exe
+E:\MET\2CS\Term 2\File Organization\File Organization Programs\Example 5-1 ProductDetails\ProductDetails\bin\Debug\ProductDetails.pdb
+E:\MET\2CS\Term 2\File Organization\File Organization Programs\Example 5-1 ProductDetails\ProductDetails\bin\Debug\ProductDetails.xml
+E:\MET\2CS\Term 2\File Organization\File Organization Programs\Example 5-1 ProductDetails\ProductDetails\obj\Debug\ProductDetails.vbprojAssemblyReference.cache
+E:\MET\2CS\Term 2\File Organization\File Organization Programs\Example 5-1 ProductDetails\ProductDetails\obj\Debug\ProductDetails.Form1.resources
+E:\MET\2CS\Term 2\File Organization\File Organization Programs\Example 5-1 ProductDetails\ProductDetails\obj\Debug\ProductDetails.Resources.resources
+E:\MET\2CS\Term 2\File Organization\File Organization Programs\Example 5-1 ProductDetails\ProductDetails\obj\Debug\ProductDetails.vbproj.GenerateResource.cache
+E:\MET\2CS\Term 2\File Organization\File Organization Programs\Example 5-1 ProductDetails\ProductDetails\obj\Debug\ProductDetails.vbproj.CoreCompileInputs.cache
+E:\MET\2CS\Term 2\File Organization\File Organization Programs\Example 5-1 ProductDetails\ProductDetails\obj\Debug\ProductDetails.exe
+E:\MET\2CS\Term 2\File Organization\File Organization Programs\Example 5-1 ProductDetails\ProductDetails\obj\Debug\ProductDetails.xml
+E:\MET\2CS\Term 2\File Organization\File Organization Programs\Example 5-1 ProductDetails\ProductDetails\obj\Debug\ProductDetails.pdb
